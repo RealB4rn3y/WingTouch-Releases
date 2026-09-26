@@ -61,7 +61,7 @@ Some integrations are optional and may require their corresponding third-party p
 The normal end-user release is a standalone Windows x64 build.
 
 1. Download the latest WingTouch release.
-2. Install WingTouch or extract the portable ZIP.
+2. Install WingTouch.
 3. Start `WingTouch.exe`.
 4. Start Microsoft Flight Simulator.
 5. Open WingTouch from the system tray.
