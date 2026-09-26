@@ -1,0 +1,135 @@
+WingTouch End User License Agreement (EULA)
+Version 1.0
+
+Copyright © 2026 B4rn3y. All rights reserved.
+Contact: wingtouch@b4rn3y.org
+
+By installing, launching or using WingTouch, you agree to this End User
+License Agreement. If you do not agree to these terms, do not use WingTouch.
+
+1. What WingTouch Is
+
+WingTouch is proprietary simulator companion software intended for use with
+supported flight simulation software. WingTouch is not an open-source product.
+
+2. Permission to Use WingTouch
+
+You are granted a limited, non-exclusive, non-transferable and revocable
+license to use WingTouch for personal, non-commercial purposes.
+
+You may also use WingTouch in monetized, sponsored or otherwise
+revenue-generating media content, including videos, livestreams, screenshots,
+reviews, tutorials, demonstrations and similar content. No separate permission
+is required solely because that content earns advertising revenue,
+subscriptions, donations, sponsorship income or platform payouts.
+
+This permission does not allow you to sell, redistribute, sublicense, rebrand,
+bundle or otherwise commercially exploit WingTouch itself. Other commercial
+use, including use as part of a paid simulator service, commercial training
+environment, bundled hardware/software offering or other paid product or
+service, requires prior written permission from the rights holder.
+
+No ownership in WingTouch is transferred to you.
+
+3. Things You May Do
+
+You may:
+- install and use WingTouch on devices you control;
+- connect WingTouch to supported flight simulators and services;
+- create your own panels, Home Gadgets, layouts and configurations;
+- share your own WingTouch configuration files where they do not contain
+  material that you are not permitted to redistribute;
+- create backups where permitted or required by law;
+- display and use WingTouch in monetized or sponsored videos, livestreams,
+  reviews, tutorials, screenshots, demonstrations and similar media content.
+
+4. Things You May Not Do
+
+Unless this agreement, prior written permission or mandatory law expressly
+permits the activity, you may not:
+- sell WingTouch;
+- redistribute WingTouch;
+- distribute modified versions of WingTouch;
+- rebrand WingTouch and release it under another name;
+- include WingTouch in another commercial product or paid service;
+- sublicense WingTouch;
+- remove copyright or proprietary notices;
+- copy substantial portions of WingTouch into another software product;
+- use WingTouch branding in a way that suggests an unofficial product is an
+  official WingTouch release;
+- reverse engineer, decompile or disassemble WingTouch except where expressly
+  permitted by mandatory applicable law.
+
+5. Your Panels and Gadgets
+
+Content that you independently create using WingTouch remains yours. This
+includes your own panels, Home Gadgets, layouts, configurations and presets.
+WingTouch does not claim ownership of your original user-created content.
+
+WingTouch itself, its source code, built-in components, default assets and
+underlying software remain the property of their respective rights holders.
+
+6. WingTouch Branding
+
+The WingTouch name, logo and official visual branding are reserved. This
+agreement does not give you permission to release another product using
+WingTouch branding or to present another product as an official WingTouch
+product.
+
+7. Simulator-Only Use
+
+WingTouch is intended solely as a flight simulation companion. WingTouch is
+not certified aviation software, is not intended for use in real aircraft,
+must not be relied upon for real-world flight operations, and does not replace
+official aircraft documentation, procedures, charts or performance
+information.
+
+8. Third-Party Services
+
+Some WingTouch features may depend on third-party software, APIs, simulator
+interfaces or online services. Those services may be governed by separate
+licenses or terms and may change or become unavailable independently of
+WingTouch.
+
+9. Updates
+
+WingTouch may receive updates, changes and new features. There is no guarantee
+that every feature will remain available, older versions will remain
+supported, third-party integrations will remain compatible, or development or
+support will continue indefinitely.
+
+10. Warranty
+
+WingTouch is provided without a guarantee of uninterrupted or error-free
+operation. Statutory rights and warranties that cannot legally be excluded
+remain unaffected.
+
+11. Liability
+
+To the extent permitted by applicable law, liability for indirect and
+consequential losses is excluded. This agreement does not exclude or restrict
+liability where doing so would be unlawful, including applicable liability for
+intentional misconduct, gross negligence, or injury to life, body or health.
+
+12. Violation of This Agreement
+
+If you materially violate this agreement, your permission to use WingTouch may
+be terminated. This does not affect rights that cannot legally be restricted
+or terminated.
+
+13. Changes to These Terms
+
+Future WingTouch releases may be distributed under updated license terms. The
+license applicable to a particular release is the license supplied with that
+release unless otherwise stated.
+
+14. Governing Law
+
+Unless mandatory law provides otherwise, this agreement is governed by the
+laws of the Federal Republic of Germany. Mandatory consumer protection rights
+remain unaffected.
+
+15. Contact
+
+Licensing, commercial-use and permission requests:
+wingtouch@b4rn3y.org
