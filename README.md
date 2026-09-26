@@ -200,14 +200,6 @@ WingTouch does not redistribute Microsoft Flight Simulator, SimConnect, GSX Pro,
 
 ---
 
-## Build information
-
-The public Windows release is built as a standalone x64 application. Build tooling and end-user runtime dependencies are documented in [`BUILD-WINDOWS.md`](BUILD-WINDOWS.md).
-
-The normal release process verifies tests, produces checksums/update metadata, and audits shipped components against the license BOM before publication. Before a version tag is created, the same Windows workflow is run manually in the private source repository as a non-publishing release-candidate dry run.
-
----
-
 ## Project status
 
 WingTouch `0.3.1` is an early release and remains under active development.
