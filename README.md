@@ -17,6 +17,9 @@
 
 </div>
 
+> [!WARNING]
+> **For flight simulation only. Not for real-world navigation or aircraft operation.**
+
 ---
 
 ## Installation
