@@ -8,7 +8,6 @@
   <br>
 
   **Current Release: 0.3.1**  
-  Windows x64 · Microsoft Flight Simulator 2024
 
   <br><br>
 
@@ -16,7 +15,8 @@
 
   <br><br>
 
-  *For flight simulation only. Not for real-world navigation or aircraft operation.*
+> [!WARNING]
+> **For flight simulation only. Not for real-world navigation or aircraft operation.**
 </div>
 
 ---
