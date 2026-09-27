@@ -6,21 +6,17 @@
   **A local-first cockpit companion for Microsoft Flight Simulator.**
 
   <br>
-
   **Current Release: 0.3.1**  
-
   <br><br>
-
 <p align="center">
   <a href="https://github.com/RealB4rn3y/WingTouch-Releases/releases/latest/download/WingTouch-Setup-0.3.1-windows-x64.exe">
     <img
       src="web/assets/download_button.png"
       alt="Download WingTouch for Windows"
-      width="720"
+      width="400"
     >
   </a>
 </p>
-
   <br><br>
 
 </div>
