@@ -11,7 +11,15 @@
 
   <br><br>
 
-  [⬇️ Download WingTouch 0.3.1 for Windows](https://github.com/RealB4rn3y/WingTouch-Releases/releases/latest/download/WingTouch-Setup-0.3.1-windows-x64.exe)
+<p align="center">
+  <a href="https://github.com/RealB4rn3y/WingTouch-Releases/releases/latest/download/WingTouch-Setup-0.3.1-windows-x64.exe">
+    <img
+      src="web/assets/download_button.png"
+      alt="Download WingTouch for Windows"
+      width="720"
+    >
+  </a>
+</p>
 
   <br><br>
 
