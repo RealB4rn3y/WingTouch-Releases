@@ -45,7 +45,10 @@ No separate tablet app, Python, Node.js or other development tools are required.
 
 ## Current Version
 
-**WingTouch 0.3.5**
+**Current release:** `0.3.5`
+**Platform:** Windows x64  
+**Primary simulator target:** Microsoft Flight Simulator 2024/2020
+**Status:** Early release / active development
 
 This is the latest public release.
 
