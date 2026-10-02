@@ -1,0 +1,171 @@
+WingTouch Proprietary Software License
+Version 1.0
+
+Copyright © 2026 B4rn3y. All rights reserved.
+Licensing contact: wingtouch@b4rn3y.org
+
+This license applies to the WingTouch software, including its source code,
+executable files, user interface, documentation, bundled original assets and
+other original components supplied as part of WingTouch, except where a
+separate third-party license is expressly identified.
+
+1. Ownership
+
+WingTouch is proprietary software. All copyrights and other intellectual
+property rights in WingTouch remain with their respective rights holder(s).
+No ownership rights are transferred to the user under this license.
+
+2. License Grant
+
+Subject to compliance with this license, the rights holder grants the user a
+limited, non-exclusive, non-transferable and revocable right to install and
+use WingTouch for personal, non-commercial purposes.
+
+In addition, WingTouch may be used in monetized, sponsored or otherwise
+revenue-generating media content, including videos, livestreams, screenshots,
+reviews, tutorials, demonstrations and similar content. No separate permission
+is required solely because such content earns advertising revenue,
+subscriptions, donations, sponsorship income or platform payouts.
+
+This media-content permission does not grant any right to sell, sublicense,
+redistribute, rebrand, bundle or otherwise commercially exploit WingTouch
+itself. Other commercial use of WingTouch, including use as part of a paid
+simulator service, commercial training environment, bundled hardware/software
+offering or other paid product or service, requires prior written permission
+from the rights holder.
+
+3. Permitted Use
+
+The user may:
+- install and run WingTouch on devices under the user's control;
+- create personal configurations, panels, Home Gadgets, layouts and similar
+  user-generated content using WingTouch;
+- make backups where permitted or required by applicable law;
+- use WingTouch together with compatible flight simulators and supported
+  third-party services;
+- display and use WingTouch in monetized or sponsored videos, livestreams,
+  reviews, tutorials, screenshots, demonstrations and similar media content.
+
+4. Prohibited Use
+
+Except where expressly permitted by this license, mandatory applicable law or
+prior written permission from the rights holder, the user may not:
+- sell, rent, sublicense, lease or commercially distribute WingTouch;
+- redistribute WingTouch, whether modified or unmodified;
+- publish modified builds of WingTouch;
+- rebrand WingTouch or distribute it under another product or project name;
+- represent a modified or unofficial version as an official WingTouch release;
+- make WingTouch available as part of another commercial software product or
+  paid service;
+- copy substantial portions of WingTouch source code into another product;
+- remove, obscure or alter copyright, trademark, attribution or proprietary
+  notices;
+- use the WingTouch name, logo or branding in a way that implies sponsorship,
+  endorsement or official status without permission;
+- reverse engineer, decompile or disassemble WingTouch except to the extent
+  expressly permitted by mandatory applicable law.
+
+5. Modifications
+
+Permission to modify WingTouch for private use does not include permission to
+distribute modified versions. A modified version may not be publicly
+distributed, sold, sublicensed or rebranded without prior written permission.
+Nothing in this section restricts rights that cannot lawfully be excluded.
+
+6. User-Created Content
+
+Users retain ownership of original content they create using WingTouch,
+including their own panels, Home Gadgets, layouts, configurations, presets,
+notes and other user-created project data.
+
+WingTouch does not claim ownership of such user-created content. Users are
+responsible for ensuring that content they create, import or distribute does
+not infringe the rights of third parties.
+
+WingTouch software, built-in components, bundled assets, default designs and
+underlying code do not become user-owned merely because they are used within
+user-created content.
+
+7. Sharing User-Created Content
+
+Users may share their own WingTouch panels, Home Gadgets, layouts and other
+user-created configuration files, provided that doing so does not distribute
+proprietary WingTouch source code, executable code, protected bundled assets
+or other materials the user is not permitted to redistribute.
+
+8. WingTouch Name and Branding
+
+The WingTouch name, logo, visual identity and official branding are reserved.
+This license does not grant permission to redistribute, rebrand or use them in
+derivative products in a way that implies official WingTouch status without
+prior written permission.
+
+9. Third-Party Components
+
+WingTouch may include or interact with third-party software, libraries, APIs,
+services, icons or other materials. Such components remain subject to their
+respective licenses and terms. Applicable third-party notices are provided in
+THIRD-PARTY-NOTICES.md and/or the bundled license files.
+
+10. No Aviation Certification
+
+WingTouch is a simulator companion application. It is not certified aviation
+software, is not intended for real-world aircraft operation, and does not
+replace official procedures, documentation, charts, performance data or
+instructions.
+
+11. Updates and Availability
+
+The rights holder is not obligated to provide updates, upgrades, support,
+compatibility with future simulator versions, continued online services or
+continued development of WingTouch. Features may be changed, replaced or
+discontinued in future versions.
+
+12. Disclaimer of Warranty
+
+WingTouch is provided without any guarantee that it will be uninterrupted,
+error-free or suitable for a particular purpose. Nothing in this license
+excludes or limits warranties, remedies or rights that cannot lawfully be
+excluded under applicable law.
+
+13. Limitation of Liability
+
+To the maximum extent permitted by applicable law, the rights holder shall not
+be liable for indirect or consequential losses arising from the use of
+WingTouch. Nothing in this license excludes or limits liability where such
+exclusion or limitation is prohibited by applicable law, including applicable
+liability for intent, gross negligence, or injury to life, body or health.
+
+14. Termination
+
+The rights granted under this license terminate if the user materially
+violates its terms. Upon termination, the user must cease unauthorized use and
+distribution of WingTouch. Rights that cannot lawfully be terminated or
+restricted remain unaffected.
+
+15. No Open-Source License
+
+WingTouch is not distributed under an open-source license. Access to source
+code, if provided at any time, does not by itself grant permission to copy,
+redistribute, relicense, sell or create publicly distributed derivative
+versions.
+
+16. Additional Permissions
+
+The rights holder may grant separate permissions or commercial licenses in
+writing. Such permission applies only to the scope expressly stated in that
+authorization.
+
+17. Applicable Law
+
+Unless mandatory law requires otherwise, this license is governed by the laws
+of the Federal Republic of Germany. Mandatory consumer protection rules that
+apply in the user's country of residence remain unaffected.
+
+18. Severability
+
+If any provision of this license is found invalid or unenforceable, the
+remaining provisions remain unaffected to the extent permitted by applicable
+law.
+
+Licensing requests: wingtouch@b4rn3y.org
