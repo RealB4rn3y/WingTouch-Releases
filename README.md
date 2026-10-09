@@ -62,16 +62,6 @@ WingTouch is proprietary software.
 
 Copyright © 2026 B4rn3y. All rights reserved.
 
-Please review the applicable license information before using or redistributing WingTouch:
-
-- [WingTouch Proprietary Software License](LICENSE.txt)
-- [End User License Agreement](EULA.txt)
-- [Third-Party Notices](THIRD-PARTY-NOTICES.md)
-
-For licensing or permission requests:
-
-**wingtouch@b4rn3y.org**
-
 ---
 
 <div align="center">
