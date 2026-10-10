@@ -6,10 +6,10 @@
   **A local-first cockpit companion for Microsoft Flight Simulator.**
 
   <br>
-  **Current Release: 0.3.9**  
+  **Current Release: 0.3.10**  
   <br><br>
 <p align="center">
-  <a href="https://github.com/RealB4rn3y/WingTouch-Releases/releases/latest/download/WingTouch-Setup-0.3.9-windows-x64.exe">
+  <a href="https://github.com/RealB4rn3y/WingTouch-Releases/releases/latest/download/WingTouch-Setup-0.3.10-windows-x64.exe">
     <img
       src="web/assets/download_button.png"
       alt="Download WingTouch for Windows"
@@ -29,7 +29,7 @@
 ## Installation
 
 1. Download the latest WingTouch installer using the button above.
-2. Run `WingTouch-Setup-0.3.9-windows-x64.exe`.
+2. Run `WingTouch-Setup-0.3.10-windows-x64.exe`.
 3. Follow the Windows installation steps.
 4. Start WingTouch.
 5. Start Microsoft Flight Simulator 2024.
@@ -45,7 +45,7 @@ No separate tablet app, Python, Node.js or other development tools are required.
 
 ## Current Version
 
-- **Current release:** `0.3.9`
+- **Current release:** `0.3.10`
 - **Platform:** Windows x64  
 - **Primary simulator target:** Microsoft Flight Simulator 2024/2020
 - **Status:** Early release / active development
